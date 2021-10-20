@@ -1,5 +1,11 @@
 
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
   "categories": [
     {
       "id": 0, "name": "Order", "children": [],
@@ -51,5 +57,5 @@
         },
       ] 
     },
-  ],
+  ]
 }
