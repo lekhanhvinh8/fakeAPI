@@ -30,6 +30,21 @@
                 "id": 7, "name": "Theo dõi GPS", "children": []
               }
             ]
+          },
+          {
+            "id": 20, "name": "Điện thoại di động", "children": []
+          },
+          {
+            "id": 21, "name": "Điện thoại di động", "children": []
+          },
+          {
+            "id": 22, "name": "Điện thoại di động", "children": []
+          },
+          {
+            "id": 23, "name": "Điện thoại di động", "children": []
+          },
+          {
+            "id": 24, "name": "Điện thoại di động", "children": []
           }
         ] 
       },
